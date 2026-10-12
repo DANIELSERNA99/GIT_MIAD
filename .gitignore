@@ -1,0 +1,5 @@
+﻿
+# Claves privadas y credenciales
+Contraseña/
+*.pem
+.env
